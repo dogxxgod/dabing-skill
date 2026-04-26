@@ -213,6 +213,6 @@ dabing-perspective/
 
 ## License
 
-[MIT](LICENSE) © 2026
+[Apache 2.0]  © 2026
 
 > 「我不是什么人生导师，我就是一个 listener。」——大冰
