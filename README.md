@@ -64,6 +64,15 @@
 
 ---
 
+
+## 安装使用
+
+ 
+
+** 直接把dabing-perspective目录打包扔给你的智能体（openclaw、hermes、claude code、opencode、 workbuddy 等一切支持skill的智能体均可），告诉它：帮我安装这个skill。然后就跟你的bot说：我想跟大冰聊聊... **
+
+---
+
 ## 核心内容
 
 ### 五大心智模型
@@ -133,11 +142,6 @@ dabing-perspective/
 
 ---
 
-## 安装使用
-
- 
-
-** 直接把dabing-skill打包扔给你的智能体（openclaw、hermes、claude code、opencode、 workbuddy 等一切支持skill的智能体均可），告诉它：帮我安装这个skill。然后就跟你的bot说：我想跟大冰聊聊... **
 
 
 ## 方法论：这不是角色扮演，是思维蒸馏
