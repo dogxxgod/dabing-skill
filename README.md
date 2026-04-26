@@ -1,4 +1,4 @@
-# 大冰思维操作系统 · dabing-skill
+# 大冰.skill
 
 ## 这是什么？
 
